@@ -1,0 +1,29 @@
+/*
+font-family: 'League Spartan', sans-serif;
+font-family: 'Gilroy';
+*/
+
+
+*{ 
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Gilroy';
+    background-color: #0B1D26;
+    margin: 0;
+    background-image: url("/img/BG/BG.jpg");
+    background-size: 100auto;
+    background-repeat: no-repeat;
+} 
+
+
+.container-wide{
+width: 1760px;
+padding: 0 15px;
+}
+
+.row{
+    display: flex;
+}
+
